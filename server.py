@@ -9,6 +9,7 @@ def readMhorcel():
     #this is the function to handle the serial thread
     global cereal
     while True:
+        print ('In readMhorcel-thread')
         data = cereal.read(256)
         if len(data) > 0:
             print(data)
