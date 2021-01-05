@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "electron-rebuild": "^1.10.0",
     "quasar": "^1.0.0",
     "serialport": "^8.0.7"
